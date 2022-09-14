@@ -1,1 +1,1 @@
-# orbit-simulator
+# trajectory-game
